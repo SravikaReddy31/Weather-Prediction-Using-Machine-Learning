@@ -127,7 +127,7 @@ Rainfall-Prediction-ML/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/rainfall-prediction-ml.git
+git clone https://github.com/SravikaReddy31/Weather-Prediction-Using-Machine-Learning.git
 ```
 
 ### Install Dependencies
